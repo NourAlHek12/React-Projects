@@ -1,0 +1,9 @@
+.star-rating{
+    background-color: white;
+}
+.active{
+    color: #fff700;
+}
+.inactive{
+    color: #0000;
+}
